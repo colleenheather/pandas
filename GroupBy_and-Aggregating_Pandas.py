@@ -1,6 +1,6 @@
 # notes - group by and aggregation commands in Pandas
 import pandas as pd
-df = pd.read_csv(r"C:\Users\colle\Desktop\Pandas Tutorial\Flavors.csv")
+df = pd.read_csv(r"C:\PATH\Flavors.csv")
 df
 
 group_by_frame = df.groupby('Base Flavor')
