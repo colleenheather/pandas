@@ -1,4 +1,4 @@
-This is just a collection of pandas notes.
+Just a collection of my notes for learning Pandas
 
-* note to self *
+
 **shift + tab** in Jupyter Notebooks to see arguement opens for function
